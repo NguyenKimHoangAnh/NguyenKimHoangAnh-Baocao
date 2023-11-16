@@ -1,0 +1,8 @@
+/* styles.css */
+.item-slick1 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    /* Điều chỉnh chiều cao theo ý muốn */
+}

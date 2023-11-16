@@ -1,0 +1,10 @@
+.topic-link {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+}
+
+.topic-link:hover {
+    background-color: rgb(65, 135, 205);
+    color: rgba(2, 56, 0, 0.499);
+}

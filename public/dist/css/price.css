@@ -1,0 +1,28 @@
+ .product-price del {
+     font-size: 14px;
+     /* Kích thước thu nhỏ */
+     color: #888888;
+     /* Màu sắc xám nhạt */
+ }
+
+ .product-price {
+     font-size: auto;
+     /* Kích thước thu nhỏ */
+     color: #e90808;
+     /* Màu sắc xám nhạt */
+ }
+
+ .d-flex {
+     display: flex;
+     align-items: center;
+ }
+
+ .quantity-input {
+     margin-right: 10px;
+ }
+
+ .d-flex {
+     display: flex;
+     align-items: center;
+ }
+ 

@@ -1,0 +1,14 @@
+.top-bar {
+    position: sticky;
+    top: 0;
+    /*background-color: blue;
+    /* Màu xanh dương */
+    z-index: 9999;
+}
+
+.wrap-menu-desktop {
+    position: sticky;
+    top: 0;
+    display: block;
+    /* Các thuộc tính CSS khác */
+}
